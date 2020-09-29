@@ -2,4 +2,4 @@
 
 Practice repo for Data 115 students
 
-This repo corresponds to the guide posted on Blackboard for basics fo git usage.
+This repo corresponds to the guide posted on Blackboard for basics of git usage.
